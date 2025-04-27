@@ -48,6 +48,6 @@ Make sure you have the following installed:
   npm install -g json-server
 
 ## Deployment
-The app has been deployed on Netlify. You can access the live app at:
+The app has been deployed on Netlify. You can access the live app at: [salesPilot-netlify](https://resonant-douhua-f19218.netlify.app/)
  ```bash
 https://resonant-douhua-f19218.netlify.app/
