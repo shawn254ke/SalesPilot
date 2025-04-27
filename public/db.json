@@ -1,0 +1,58 @@
+{
+  "leads": [
+    {
+      "id": "2",
+      "name": "Sarah Johnson",
+      "email": "sarah.j@innovate.co",
+      "phone": "0725465286",
+      "company": "Innovate Co.",
+      "status": "Contacted",
+      "source": "Referral",
+      "createdOn": "2023-02-03T00:00:00.000Z",
+      "notes": [
+        "Referred by John Smith",
+        "Interested in enterprise package"
+      ]
+    },
+    {
+      "id": "1745782908324",
+      "name": "patrick wentangula",
+      "email": "info@dawnindustries.co.ke",
+      "phone": "0111205871",
+      "company": "pioneer",
+      "status": "Contacted",
+      "source": "Other",
+      "createdOn": "2025-04-27T19:41:48.324Z",
+      "notes": [
+        "head of the engineering department ",
+        "interested in corporate trainings "
+      ]
+    },
+    {
+      "id": "1745784623252",
+      "name": "peter kariuki",
+      "email": "kenAfric@gmail.com",
+      "phone": "0236589746",
+      "company": "KenAfric",
+      "status": "Converted",
+      "source": "Email Campaign",
+      "createdOn": "2025-04-27T20:10:23.252Z",
+      "notes": [
+        "interested in supplies of parts and repairs of old parts "
+      ]
+    },
+    {
+      "id": "60e1",
+      "name": "DSFSDF",
+      "email": "otienoshawn41@gmail.com",
+      "phone": "sdf",
+      "company": "pioneer",
+      "status": "Interested",
+      "source": "Referral",
+      "createdOn": "2025-04-27T21:12:13.717Z",
+      "notes": [
+        "sdfsdf"
+      ]
+    }
+  ]
+}
